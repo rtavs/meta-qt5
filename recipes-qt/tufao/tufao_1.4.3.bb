@@ -3,7 +3,7 @@ LICENSE = "LGPL-2.1"
 LIC_FILES_CHKSUM = "file://COPYING.LESSER;md5=4fbd65380cdd255951079008b364516c"
 DEPENDS = "qtbase"
 
-SRCREV = "a4832b4c941b5ff3f5fab23adcff39e6ad6cb4e5"
+SRCREV = "b8e35408fec166e885170c71a03b7f8f09ef649e"
 SRC_URI = "git://github.com/vinipsmaker/tufao.git;protocol=http \
            file://build-Fix-mkspecs-and-CMake-module-install-directori.patch"
 

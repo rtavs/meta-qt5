@@ -10,8 +10,8 @@ LIC_FILES_CHKSUM = " \
     file://LICENSE.LGPL;md5=4193e7f1d47a858f6b7c0f1ee66161de \
 "
 S = "${WORKDIR}/git"
-SRCREV = "4717841185d34bbe450e3b24445f2d35e3325a6a"
-PV = "39+git${SRCREV}"
+SRCREV = "a1b6736e4f2daf86cd1626004d40ef57db85fbb5"
+#PV = "39+git${SRCREV}"
 
 inherit pkgconfig
 
